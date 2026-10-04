@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Элеонора Журавлёва](https://up.htmlacademy.ru/javascript-individual/3/user/2676423).
-* Наставник: `Евгений Лепёшкин`.
+* Наставник: [Евгений Лепёшкин] (https://htmlacademy.ru/profile/spearance).
 
 ---
 
